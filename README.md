@@ -25,7 +25,6 @@ run="npm start"
 ### 4. Type This in Console `npm i discord.js` (You could also install discord.js from Replit Package Manager)
 
 # Others
-### So you could also Use My [Visual Studio Code Discord.js v13 Cmd Handler](https://github.com/Fireisbest/Discord.js-v13-Handler) In Replit Now! <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png"/>
-### Use any Discord.js v13 Thing Now In Replit
+### So you could also Use My [Visual Studio Code Discord.js v13 Cmd Handler](https://github.com/Fireisbest/Discord.js-v13-Handler) In Replit Now! 
 # Note
 This Thing Would Not Make your all Projects Node v16
