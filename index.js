@@ -16,4 +16,4 @@ client.on('messageCreate', message => {
   }  
 })
 
-client.login(process.config.token)
+client.login(config.token)
