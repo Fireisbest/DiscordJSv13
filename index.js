@@ -4,4 +4,5 @@ const config = require('./config.json');
 client.on('ready', () => {
   console.log(`${client.user.tag} is Online!`)
 })
+
 client.login(config.token)
