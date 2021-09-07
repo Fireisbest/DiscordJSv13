@@ -8,9 +8,9 @@ client.once('ready', () => {
 
 client.on('messageCreate', message => {
   if(message.content === "-cee2") {
-    message.channel.send("https://ceetodiscordtk")
+    message.channel.send("https://ceetodiscordtk , for what you need it tho?")
   } else if(message.content === "-hi") {
-    message.channel.send("hello Man")
+    message.channel.send("hello Man , what you doin")
   } else if(message.content == "-yummy" {
     message.channel.send("whats yummy bro , i need food")
   }  
