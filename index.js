@@ -11,7 +11,7 @@ client.on('messageCreate', message => {
     message.channel.send("https://ceetodiscordtk , for what you need it tho?")
   } else if(message.content === "-hi") {
     message.channel.send("hello Man , what you doin")
-  } else if(message.content == "-yummy" {
+  } else if(message.content == "-yummy") {
     message.channel.send("whats yummy bro , i need food")
   }  
 })
